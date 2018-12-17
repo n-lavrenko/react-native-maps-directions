@@ -1,5 +1,5 @@
 {
-  "name": "react-native-maps-directions",
+  "name": "react-native-maps-directions-nl",
   "version": "1.6.1",
   "description": "Directions Component for react-native-maps",
   "main": "index.js",
@@ -12,7 +12,7 @@
     "email": "bramus@bram.us",
     "url": "https://www.bram.us/"
   },
-  "repository": "https://github.com/bramus/react-native-maps-directions",
+  "repository": "https://github.com/n-lavrenko/react-native-maps-directions",
   "keywords": [
     "react-native",
     "react-native-component",
@@ -24,9 +24,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bramus/react-native-maps-directions/issues"
+    "url": "https://github.com/n-lavrenko/react-native-maps-directions/issues"
   },
-  "homepage": "https://github.com/bramus/react-native-maps-directions",
+  "homepage": "https://github.com/n-lavrenko/react-native-maps-directions",
   "peerDependencies": {
     "react": "*",
     "react-native": "*",
