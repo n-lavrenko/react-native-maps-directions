@@ -71,7 +71,7 @@ class MapViewDirections extends Component {
 			onStart,
 			onReady,
 			onError,
-			mode = 'driving',
+			mode = 'DRIVING',
 			language = 'en',
 			directionsServiceBaseUrl = 'https://maps.googleapis.com/maps/api/directions/json',
 		} = props;
@@ -205,7 +205,7 @@ MapViewDirections.propTypes = {
 	onStart: PropTypes.func,
 	onReady: PropTypes.func,
 	onError: PropTypes.func,
-	mode: PropTypes.oneOf(['driving', 'bicycling', 'transit', 'walking']),
+	mode: PropTypes.oneOf(['DRIVING', 'BICYCLING', 'TRANSIT', 'WALKING']),
 	language: PropTypes.string,
 	resetOnChange: PropTypes.bool,
 	directionsServiceBaseUrl: PropTypes.string,
