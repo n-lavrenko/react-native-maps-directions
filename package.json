@@ -1,6 +1,6 @@
 {
   "name": "react-native-maps-directions",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "description": "Directions Component for react-native-maps",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
     "lint:watch": "esw --watch"
   },
   "author": {
-    "name": "Bramus!",
+    "name": "Bramus!, n-lavrenko (fork)",
     "email": "bramus@bram.us",
     "url": "https://www.bram.us/"
   },
